@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_UIATree", "WinForms_UIATree\WinForms_UIATree.csproj", "{51846302-0332-44D6-81C1-63351C9545DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51846302-0332-44D6-81C1-63351C9545DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51846302-0332-44D6-81C1-63351C9545DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51846302-0332-44D6-81C1-63351C9545DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51846302-0332-44D6-81C1-63351C9545DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A668E13-7066-45C8-B583-73EEBC798F92}
+	EndGlobalSection
+EndGlobal
